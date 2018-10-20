@@ -1,0 +1,16 @@
+pipeline
+	{
+
+status  
+    {
+	state('Build') {
+
+step {
+
+echo 'Please build code'
+
+}
+}
+}
+}
+
